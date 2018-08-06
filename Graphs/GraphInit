@@ -1,6 +1,5 @@
    //init graphs , wdigets and app features ( USB/FullScreen )
-   
-   private void init(){
+    private void init(){
 
         //init USB manager and start on BOOT intent Broadcast Receiver
         setContentView(R.layout.activity_main);
